@@ -11,9 +11,9 @@ This project aims to recognize sign language gestures using computer vision and 
 ## Installation
 
 1. Clone the repository:
- - git clone https://github.com/AbhishekBaiju/ASL-intrepreter.git
+   ```git clone https://github.com/AbhishekBaiju/ASL-intrepreter.git```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
  - cd ASL-intrepreter
 
 
